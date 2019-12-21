@@ -4,7 +4,7 @@ Visit website for more information: [www.overmindjs.org](https://www.overmindjs.
 
 ## Release procedure
 
-```console
+```zsh
 $ git checkout next
 $ git pull
 $ npm install # make sure any new dependencies are installed
